@@ -7,8 +7,6 @@
 
 _Version 1.0 Copyright © Jack Meng 2022_
 
-**All rights reserved.**
-
 Any persons shall be permitted to acquire a copy of this software in any form (source and/or binary).
 
 Redistribution with or without modifications is permitted provided that the following conditions are met:
